@@ -48,7 +48,14 @@ The SexHateLex lexicon contains a list of 3,016 abusive and sexist terms in `Sex
 Our work has been published in the Journal of Online Social Networks and Media. If you are interested in this dataset, please cite: 
 
 ```
-Aiqi Jiang, Xiaohan Yang, Yang Liu, Arkaitz Zubiaga, SWSR: A Chinese dataset and lexicon for online sexism detection, Online Social Networks and Media, Volume 27, 2022, 100182, ISSN 2468-6964, https://doi.org/10.1016/j.osnem.2021.100182.
+Aiqi Jiang, Xiaohan Yang, Yang Liu, Arkaitz Zubiaga, 
+SWSR: A Chinese dataset and lexicon for online sexism detection, 
+Online Social Networks and Media, 
+Volume 27, 
+2022, 
+100182, 
+ISSN 2468-6964, 
+https://doi.org/10.1016/j.osnem.2021.100182.
 ```
 
 If you have any queries or suggestions about our work, please contact us via a.jiang@qmul.ac.uk. We also welcome any ideas or cooperation related to Chinese sexist speech.
