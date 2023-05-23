@@ -4,7 +4,7 @@
 
 Our repository presents the first Chinese sexism dataset -- **Sina Weibo Sexism Review (SWSR) dataset** -- containing sexism-related posts collected from Sina Weibo platform, as well as a large Chinese lexicon **SexHateLex**. The SWSR dataset can be exploited for building computational methods to identify and investigate online, gender-related abusive language. The SexHateLex lexicon can also support detection and analysis of sexist contents.
 
-Please find more details in our [paper work](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604) and earlier released versions [here](https://doi.org/10.5281/zenodo.4773875).
+Please find more details in our [paper work](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604) and earlier released dataset versions [here](https://doi.org/10.5281/zenodo.4773875).
 
 ## Data Format
 
@@ -58,7 +58,7 @@ ISSN 2468-6964,
 https://doi.org/10.1016/j.osnem.2021.100182.
 ```
 
-If you have any queries or suggestions about our work, please contact us via a.jiang@qmul.ac.uk. We also welcome any ideas or cooperation related to Chinese sexist speech.
+If you have any queries or suggestions about our work, please contact us via aiqi.jiang@yahoo.com. We also welcome any ideas or cooperation about online abuse especially gender-based abuse and cross-lingual scenarios.
    
 
 
